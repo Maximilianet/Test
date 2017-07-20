@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="ToogleButtonText">Информация о кнопке</string>
+    <string-array name="spinner_values">
+        <item>Топ</item>
+        <item>MID</item>
+        <item>Bot</item>
+    </string-array>
+</resources>
